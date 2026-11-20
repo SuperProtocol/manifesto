@@ -10,6 +10,7 @@ The road to the nearest star is about a thousand years long: some forty generati
 
 - [MANIFESTO.md](MANIFESTO.md) — the full text.
 - [CORE.md](CORE.md) — the five principles that no decision can change.
+- [RESEARCH.md](RESEARCH.md) — a running log of published findings that bear on the road.
 
 ## Take part
 
