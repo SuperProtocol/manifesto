@@ -1,5 +1,7 @@
 # Manifesto for a Self-Organizing System Built to Last Millennia
 
+> This repository replaces the one first published at this address in October 2026, which has been deleted. The text continues from that draft.
+
 The road to the nearest star is about a thousand years long: some forty generations. Only a few human institutions have ever lasted that long, and each did it the same way, by handing the work from one generation to the next. This repository holds the founding text of a system built to last like that: self-governing and growing without a center. Its first crews are the living prototype.
 
 **Status:** working draft 0.5, open for discussion. The project does not have a name yet.
